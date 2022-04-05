@@ -1,2 +1,2 @@
 # ILCovidAPI
-pulls down covid data from IDPH API
+simple python functions to grab covid data from the IDPH apis
